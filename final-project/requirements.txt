@@ -1,0 +1,13 @@
+opencv-python
+mediapipe
+numpy
+pandas
+scikit-learn
+joblib
+PySimpleGUI
+pyttsx3
+matplotlib
+python-dotenv
+openai
+Pillow
+
